@@ -1,0 +1,113 @@
+[INFO ] 2022-06-19 12:55:27.220 [TestNG-PoolService-0] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 12:55:29.589 [TestNG-PoolService-1] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 12:55:31.110 [TestNG-PoolService-0] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 12:55:33.415 [TestNG-PoolService-0] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 12:55:33.532 [TestNG-PoolService-1] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 12:55:34.991 [TestNG-PoolService-1] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 12:55:40.549 [TestNG-PoolService-1] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 12:55:41.872 [TestNG-PoolService-1] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 12:55:44.047 [TestNG-PoolService-1] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 13:23:48.669 [main] Log - Clicked on Log In or Sign Up link on home page
+[INFO ] 2022-06-19 13:23:54.925 [main] Log - Clicked on Sign In button on home page
+[INFO ] 2022-06-19 13:23:56.333 [main] Log - Typed text in username field as sachiien33@gmail.com on Login page
+[INFO ] 2022-06-19 13:23:57.615 [main] Log - Typed text in password field as Sanjose2424$ on Login page
+[INFO ] 2022-06-19 13:23:58.879 [main] Log - Clicked on Continue button on Login page
+[INFO ] 2022-06-19 14:51:06.904 [TestNG-PoolService-0] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 14:51:08.173 [TestNG-PoolService-2] Log - Clicked on Log In or Sign Up link on home page
+[INFO ] 2022-06-19 14:51:22.182 [TestNG-PoolService-1] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 14:51:22.424 [TestNG-PoolService-0] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 14:51:23.386 [TestNG-PoolService-1] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 14:51:23.634 [TestNG-PoolService-2] Log - Clicked on Sign In button on home page
+[INFO ] 2022-06-19 14:51:23.636 [TestNG-PoolService-0] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 14:51:24.902 [TestNG-PoolService-1] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 14:57:10.237 [TestNG-PoolService-2] Log - Clicked on Log In or Sign Up link on home page
+[INFO ] 2022-06-19 14:57:10.787 [TestNG-PoolService-0] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 14:57:18.538 [TestNG-PoolService-0] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 14:57:18.638 [TestNG-PoolService-1] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 14:57:19.731 [TestNG-PoolService-0] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 14:57:19.986 [TestNG-PoolService-1] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 14:57:21.349 [TestNG-PoolService-2] Log - Clicked on Sign In button on home page
+[INFO ] 2022-06-19 14:57:21.652 [TestNG-PoolService-1] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 14:57:23.054 [TestNG-PoolService-2] Log - Typed text in username field as sachiien33@gmail.com on Login page
+[INFO ] 2022-06-19 14:57:24.481 [TestNG-PoolService-2] Log - Typed text in password field as Sanjose2424$ on Login page
+[INFO ] 2022-06-19 14:57:25.849 [TestNG-PoolService-2] Log - Clicked on Continue button on Login page
+[INFO ] 2022-06-19 14:57:30.444 [TestNG-PoolService-1] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 14:57:31.812 [TestNG-PoolService-1] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 14:57:33.997 [TestNG-PoolService-1] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 19:16:34.083 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 19:16:35.340 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 19:16:39.866 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 19:16:40.027 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 19:16:42.978 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 19:16:43.237 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 19:16:49.886 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 19:16:51.188 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 19:16:53.361 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 19:17:14.994 [main] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 19:17:18.046 [main] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 19:17:19.329 [main] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 19:17:33.693 [main] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 19:17:35.101 [main] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 19:17:36.455 [main] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 19:17:43.831 [main] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 19:17:45.155 [main] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 19:17:48.267 [main] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 19:20:01.159 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 19:20:03.424 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 19:20:06.299 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 19:20:06.358 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 19:20:08.049 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 19:20:08.803 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 19:20:14.209 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 19:20:15.468 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 19:20:18.608 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 19:21:32.847 [TestNG-PoolService-2] Log - Clicked on Log In or Sign Up link on home page
+[INFO ] 2022-06-19 19:21:34.011 [TestNG-PoolService-0] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 19:21:45.444 [TestNG-PoolService-0] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 19:21:45.475 [TestNG-PoolService-1] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 19:21:46.362 [TestNG-PoolService-2] Log - Clicked on Sign In button on home page
+[INFO ] 2022-06-19 19:21:46.591 [TestNG-PoolService-1] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 19:21:46.755 [TestNG-PoolService-0] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 19:21:48.092 [TestNG-PoolService-1] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 19:21:48.363 [TestNG-PoolService-2] Log - Typed text in username field as sachiien33@gmail.com on Login page
+[INFO ] 2022-06-19 19:21:50.013 [TestNG-PoolService-2] Log - Typed text in password field as Sanjose2424$ on Login page
+[INFO ] 2022-06-19 19:21:51.578 [TestNG-PoolService-2] Log - Clicked on Continue button on Login page
+[INFO ] 2022-06-19 19:21:58.586 [TestNG-PoolService-1] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 19:22:00.042 [TestNG-PoolService-1] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 19:22:03.207 [TestNG-PoolService-1] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 20:00:41.411 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 20:00:46.374 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 20:00:49.449 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 20:00:49.512 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 20:00:50.716 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 20:00:50.789 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 20:00:57.023 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 20:00:58.345 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 20:01:01.458 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 20:09:32.258 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 20:09:34.277 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 20:09:37.386 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 20:09:38.065 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 20:09:39.471 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 20:09:39.596 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 20:09:45.106 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 20:09:46.373 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 20:09:48.487 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 20:12:32.755 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 20:12:37.412 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 20:12:38.664 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 20:12:39.794 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 20:12:39.976 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 20:12:41.084 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 20:12:47.893 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 20:12:49.168 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 20:12:52.280 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
+[INFO ] 2022-06-19 20:17:06.527 [pool-1-thread-1] Log - Clicked on Deals tab on home page
+[INFO ] 2022-06-19 20:17:10.746 [pool-1-thread-1] Log - Clicked on View All button in Deals menu
+[INFO ] 2022-06-19 20:17:11.872 [pool-1-thread-2] Log - Clicked on Design tab on home page
+[INFO ] 2022-06-19 20:17:12.292 [pool-1-thread-1] Log - Verified header text on Offers page is IKEA Offers, Sales and Deals
+[INFO ] 2022-06-19 20:17:13.159 [pool-1-thread-2] Log - Header Go as far as your imagination will take you is displayed on Design page
+[INFO ] 2022-06-19 20:17:14.433 [pool-1-thread-2] Log - Clicked on Office Room layout on Design page
+[INFO ] 2022-06-19 20:17:20.177 [pool-1-thread-2] Log - Typed chair on search text box on Room page
+[INFO ] 2022-06-19 20:17:21.413 [pool-1-thread-2] Log - Clicked on Search icon on Room page
+[INFO ] 2022-06-19 20:17:24.509 [pool-1-thread-2] Log - Verified search text on Room page is Results from "chair"
